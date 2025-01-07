@@ -1,0 +1,3 @@
+# Module gwt_maven_example
+# RPC service class, partial path of RPC policy file
+com.example.client.GreetingService, 7D39E3C628FF047AC243707FDE783499.gwt.rpc

@@ -1,0 +1,7 @@
+com\example\client\GreetingServiceAsync.class
+com\example\client\GwtExample.class
+com\example\server\XFrameOptionsFilter.class
+com\example\server\GWTServlet.class
+com\example\client\GreetingService.class
+com\example\client\GwtExample$1.class
+com\example\server\GreetingServiceImpl.class
